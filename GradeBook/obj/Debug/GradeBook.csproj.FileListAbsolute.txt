@@ -1,0 +1,11 @@
+C:\ProjectDevVm\C#\gradebook\GradeBook\bin\Debug\GradeBook.exe
+C:\ProjectDevVm\C#\gradebook\GradeBook\bin\Debug\GradeBook.pdb
+C:\ProjectDevVm\C#\gradebook\GradeBook\obj\Debug\GradeBook.csproj.CoreCompileInputs.cache
+C:\ProjectDevVm\C#\gradebook\GradeBook\obj\Debug\GradeBook.exe
+C:\ProjectDevVm\C#\gradebook\GradeBook\obj\Debug\GradeBook.pdb
+C:\ProjectDevVm\C#\gradebook\GradeBook\obj\Debug\GradeBook.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\C#\gradebook\GradeBook\bin\Debug\GradeBook.exe
+C:\Project\DEVELOPMENT_VM\C#\gradebook\GradeBook\bin\Debug\GradeBook.pdb
+C:\Project\DEVELOPMENT_VM\C#\gradebook\GradeBook\obj\Debug\GradeBook.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\C#\gradebook\GradeBook\obj\Debug\GradeBook.exe
+C:\Project\DEVELOPMENT_VM\C#\gradebook\GradeBook\obj\Debug\GradeBook.pdb
